@@ -1,0 +1,14 @@
+
+# Secrets and environment settings
+.env
+.env.*
+!.env.example
+.n8n/
+credentials.json
+secrets/
+
+# Local editor and operating-system files
+.DS_Store
+Thumbs.db
+*.swp
+*~

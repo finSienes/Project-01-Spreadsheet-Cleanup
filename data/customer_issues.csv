@@ -1,0 +1,6 @@
+﻿customer_id,full_name,email,city,issues
+C002,Marco Santos,marco.santos@example.com,Cebu,Duplicate customer ID
+C005,Bea Flores,,Quezon City,Missing email
+C006,Carlos Mendoza,carlos.mendoza.example.com,Cebu,Invalid email
+C007,,julia.ramos@example.com,Pasig,Missing full name
+C008,Noel Aquino,noel.aquino@example.com,,Missing city

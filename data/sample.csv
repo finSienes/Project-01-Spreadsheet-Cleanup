@@ -1,0 +1,12 @@
+
+customer_id,full_name,email,city
+C001,Ana Reyes,ana.reyes@example.com,Manila
+C002,Marco Santos,marco.santos@example.com,Cebu
+C003,Liza Cruz,liza.cruz@example.com,Davao
+C004,Paolo Garcia,paolo.garcia@example.com,Manila
+C002,Marco Santos,marco.santos@example.com,Cebu
+C005,Bea Flores,,Quezon City
+C006,Carlos Mendoza,carlos.mendoza.example.com,Cebu
+C007,,julia.ramos@example.com,Pasig
+C008,Noel Aquino,noel.aquino@example.com,
+C009,Mia Torres,mia.torres@example.com,Manila
